@@ -1,3 +1,3 @@
-# AI_with_naween
+# DEEP_Learning
 my work
 FFNN in DL :  Cardio dataset 
